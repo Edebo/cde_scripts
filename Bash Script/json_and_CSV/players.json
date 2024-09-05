@@ -1,0 +1,20 @@
+{
+    "players": [
+      {"name": "Grace", "age": 30, "score": 74, "team": "Wolves"},
+      {"name": "Bob", "age": 25, "score": 59, "team": "Dragons"},
+      {"name": "Eva", "age": 21, "score": 42, "team": "Eagles"},
+      {"name": "Ivan", "age": 26, "score": 87, "team": "Wolves"},
+      {"name": "Frank", "age": 34, "score": 12, "team": "Dragons"},
+      {"name": "Hannah", "age": 19, "score": 98, "team": "Eagles"},
+      {"name": "Alice", "age": 31, "score": 65, "team": "Wolves"},
+      {"name": "Charlie", "age": 20, "score": 76, "team": "Eagles"},
+      {"name": "David", "age": 28, "score": 89, "team": "Wolves"},
+      {"name": "Julia", "age": 29, "score": 44, "team": "Dragons"}
+    ],
+    "teams": [
+      {"team_name": "Dragons"},
+      {"team_name": "Wolves"},
+      {"team_name": "Eagles"}
+    ]
+  }
+  
